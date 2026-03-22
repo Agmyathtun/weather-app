@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://agmyathtun.github.io/react-forms",
+  "homepage": "https://agmyathtun.github.io/weather-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
